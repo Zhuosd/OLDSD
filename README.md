@@ -3,7 +3,7 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-## abstract
+## Abstract
 This paper explores a new online learning problem where the data streams are generated from an over-time varying feature
 space, in which the random variables are of mixed data types including Boolean, ordinal, and continuous. The crux of this setting lies in
 how to establish the relationship among features, such that the learner can enjoy 1) reconstructed information of the missed-out old
